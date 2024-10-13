@@ -11,7 +11,7 @@ The dataset contains information about layoffs from various companies, including
 
 ## Dataset
 
-The dataset `layoffs_data.csv` includes the following columns:
+The dataset `layoffs.csv` includes the following columns:
 
 - `company`: Name of the company
 - `location`: Location of the company
